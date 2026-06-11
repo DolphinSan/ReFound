@@ -20,12 +20,13 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:8501",
         "http://127.0.0.1:8501",
-        "https://*.streamlit.app",
+        "https://refound-swhtokmvwqhokcsmnc3g2b.streamlit.app",
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # foto upload
 os.makedirs("uploads", exist_ok=True)
