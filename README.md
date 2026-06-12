@@ -4,6 +4,8 @@ Platform digital berbasis web untuk pelaporan barang hilang dan penemuan barang 
 
 ---
 
+- Deployment link: https://refound-swhtokmvwqhokcsmnc3g2b.streamlit.app/
+
 ## Daftar Isi
 
 - [Tentang Proyek](#tentang-proyek)
