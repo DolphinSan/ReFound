@@ -68,6 +68,7 @@ ReFound hadir sebagai solusi atas permasalahan kehilangan barang di kampus yang 
 | Database   | SQLite (dev) / PostgreSQL (prod)   |
 | Auth       | JWT (python-jose), bcrypt          |
 | HTTP       | requests, python-multipart         |
+| Deployment       | Railway dan Supabase Storage + Streamlit Cloud         |
 
 ---
 
